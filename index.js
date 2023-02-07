@@ -1,3 +1,5 @@
+
+//1. No Answer 
 function mindGame(n) {
   // const add = n * 3;
   // const add2 = add + 10;
@@ -8,6 +10,8 @@ function mindGame(n) {
 }
 const result = mindGame(33);
 console.log(result);
+
+//2 No Answer
 
 function evenOrOdd(n) {
   if (typeof n == "string") {
@@ -25,6 +29,8 @@ function evenOrOdd(n) {
 }
 
 evenOrOdd("sumon2");
+
+//3 No Answer
 
 function isLGSeven(n) {
   // check n is string or not
@@ -45,6 +51,11 @@ function isLGSeven(n) {
 }
 
 isLGSeven(15);
+
+
+
+//5 No answer
+
 
 function gemsToDiamond(a, b, c) {
   // calculate gems power for individuals
